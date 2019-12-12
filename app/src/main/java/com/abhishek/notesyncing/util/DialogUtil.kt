@@ -49,7 +49,7 @@ object DialogUtil {
         ll.addView(tvText)
 
         val builder = AlertDialog.Builder(context)
-        builder.setCancelable(false)
+        builder.setCancelable(true)
         builder.setView(ll)
 
         dialog = builder.create()
