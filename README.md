@@ -15,6 +15,8 @@ This is just a simple project showing how to use the work manager and retrofit l
 ### Credits:
 Login UI: androstock.com
 
+Font: GoogleFont (solyway font)
+
 ## Screenshots
 
 <p float="left">
