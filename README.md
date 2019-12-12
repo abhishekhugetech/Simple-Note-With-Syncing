@@ -6,11 +6,13 @@ This is just a simple project showing how to use the work manager and retrofit l
 
 ### Things Left:
 1. Code refactoring.
-2. Authentication.
+2. Authentication in NotesApi and App.
 
 ### Libraries Used:
 1. Room: for storing notes in the local storage.
 2. Retrofit: for communicating with the server.
+3. WorkManager: to schedule syncing tasks.
+4. 
 
 ### Credits:
 Login UI: androstock.com
